@@ -1,6 +1,6 @@
 {
   "name": "wenyan-skill-marketplace",
-  "description": "教學用的 Claude Code skill marketplace：只放一支「白話文轉文言文」skill。",
+  "description": "教學用的 Claude Code skill marketplace：文言文改寫、英文翻譯、LINE 傳訊息。",
   "owner": {
     "name": "leepoweii",
     "url": "https://github.com/leepoweii"
@@ -10,6 +10,16 @@
       "name": "wenyan",
       "source": "./plugins/wenyan",
       "description": "把白話文章改寫成文言文。"
+    },
+    {
+      "name": "english",
+      "source": "./plugins/english",
+      "description": "把中文文章翻譯成自然流暢的英文。"
+    },
+    {
+      "name": "line-send-message",
+      "source": "./plugins/line-send-message",
+      "description": "用 LINE 桌面版（macOS）以本人身分傳訊息給聯絡人或群組，需要電腦操作權限。"
     }
   ]
 }

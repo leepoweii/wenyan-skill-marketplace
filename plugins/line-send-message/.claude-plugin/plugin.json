@@ -1,0 +1,9 @@
+{
+  "name": "line-send-message",
+  "version": "1.0.0",
+  "description": "用 LINE 桌面版（macOS）以本人身分傳訊息給聯絡人或群組，需要電腦操作權限。",
+  "author": {
+    "name": "leepoweii"
+  },
+  "license": "MIT"
+}
