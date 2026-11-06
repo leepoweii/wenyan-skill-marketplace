@@ -1,0 +1,15 @@
+{
+  "name": "wenyan-skill-marketplace",
+  "description": "教學用的 Claude Code skill marketplace：只放一支「白話文轉文言文」skill。",
+  "owner": {
+    "name": "leepoweii",
+    "url": "https://github.com/leepoweii"
+  },
+  "plugins": [
+    {
+      "name": "wenyan",
+      "source": "./plugins/wenyan",
+      "description": "把白話文章改寫成文言文。"
+    }
+  ]
+}

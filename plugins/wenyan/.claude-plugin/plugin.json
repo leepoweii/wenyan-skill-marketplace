@@ -1,0 +1,9 @@
+{
+  "name": "wenyan",
+  "version": "1.0.0",
+  "description": "把白話文章改寫成文言文。",
+  "author": {
+    "name": "leepoweii"
+  },
+  "license": "MIT"
+}
